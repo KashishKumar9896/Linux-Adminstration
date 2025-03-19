@@ -52,12 +52,12 @@ ls
 ## Snippets of the Task Performed
 
 ### 1. Creating Files and Directories
-![Creating Files and Directories](screenshot/1.jpeg)
+![Creating Files and Directories](screenshot/1.png)
 
 ---
 
 ### 2. Verifying Created Files and Directories
-![Listing Files](screenshots/1.jpeg)
+![Listing Files](screenshot/1.png)
 
 ---
 
